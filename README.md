@@ -2,3 +2,4 @@
 Built using CNNs in keras-tensorflow.
 
 Serves as a baseline for models without image augmentation.
+(Data available within the keras library datasets).
